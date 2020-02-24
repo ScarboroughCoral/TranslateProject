@@ -1,5 +1,3 @@
-Translating by MjSeven
-
 Advanced use of the less text file viewer in Linux
 ======
 
